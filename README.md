@@ -2,11 +2,12 @@
 
 Welcome to the information hub for the NXP 8M+ Edge AI Kit, an exciting AI on the edge device. This repository serves as a central hub for all resources related to the Edge AI Kit.
 
-[Buy an  NXP 8M+ Edge AI Kit](https://github.com/Avnet/8MPlus-Edge-AI-Kit-HUB/assets/831657/92ea77eb-00f1-484d-9712-8990407ebaba)
+[Buy an  NXP 8M+ Edge AI Kit](http://avnet.me/imx8mplus-edgeai-pdp)
 
 ## Table of Contents
 
-- [About](#about)
+- [About](#abou![image](https://github.com/Avnet/8MPlus-Edge-AI-Kit-HUB/assets/831657/25588a4b-7313-4051-be9c-7fb936ade720)
+t)
 - [Getting Started & Manuals](#getting-started-and-manuals)
 - [Related Repositories](#related-repositories)
 - [Related Blog Posts](#related-blog-posts)
