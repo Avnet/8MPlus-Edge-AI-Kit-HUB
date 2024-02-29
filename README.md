@@ -6,8 +6,7 @@ Welcome to the information hub for the NXP 8M+ Edge AI Kit, an exciting AI on th
 
 ## Table of Contents
 
-- [About](#abou![image](https://github.com/Avnet/8MPlus-Edge-AI-Kit-HUB/assets/831657/25588a4b-7313-4051-be9c-7fb936ade720)
-t)
+- [About](#about)
 - [Getting Started & Manuals](#getting-started-and-manuals)
 - [Related Repositories](#related-repositories)
 - [Related Blog Posts](#related-blog-posts)
