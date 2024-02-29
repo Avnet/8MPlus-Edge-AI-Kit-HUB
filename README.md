@@ -24,11 +24,6 @@ The Avnet i.MX 8M Plus Edge AI Kit consists of a SMARC System-on-Module(SOM) and
 - Quad Core Arm Cortex-A53 ARM Applications Processor
 - Image Sensor Processor 12MP@30fps
 
-### Form Factor & Interfaces
-
-![image])
-
-
 ### Memory & Storage
 - 2GB (up to 4GB options available) LPDDR4 Memory
 (inline ECC)
@@ -43,6 +38,7 @@ Software enablement includes Yocto BSP (Hardknott) and prebuilt image.
 
 ### Accessories
 
+![image](https://github.com/Avnet/8MPlus-Edge-AI-Kit-HUB/assets/831657/a25f52ec-313a-4da6-a825-7f5fd2e48893)
 Included accessories:
 - 10.1 inch touch display and cables
 - Standard heat sink thermal management solution
@@ -81,5 +77,4 @@ Included accessories:
 | -- | -- | -- |
 | - [Getting Started with the Edge AI Kit](http://avnet.me/edgeai-kit-start)| This kit's combination of powerful machine learning accelerator and stereo vision cameras makes novel applications possible | Intermediate |
 | - [Stereo Vision Depth Perception on the Edge AI Kit](http://avnet.me/edgeaikit-stereovision)| Build and run a Qt application that recognizes a face and detects how far it is from the camera using stereo depth perception | Advanced |
-
 
